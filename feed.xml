@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2022-04-06T10:33:12+02:00</updated><id>/feed.xml</id><title type="html">My Website</title><subtitle>a website for all my projects</subtitle><author><name>Elias Maier</name></author><entry><title type="html">Open Gal</title><link href="/open-gal/index.html" rel="alternate" type="text/html" title="Open Gal" /><published>2022-04-04T00:00:00+02:00</published><updated>2022-04-04T00:00:00+02:00</updated><id>/open-gal/open-gal</id><content type="html" xml:base="/open-gal/index.html"><![CDATA[<h1 id="open-gal">open gal</h1>
+
+<p>open gal is a compiler that compiles the open gal source code into a jedec file that you can then burn on a <a href="https://en.wikipedia.org/wiki/Generic_array_logic">gal</a></p>
+
+<p><a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-red.svg" alt="License: MIT" /></a></p>
+
+<h2 id="docs">docs</h2>
+<p><a href="https://github.com/eeli1/open-gal/wiki">click here</a></p>
+
+<h2 id="web-editor">web editor</h2>
+<p><a href="https://eeli1.github.io/open-gal/editor">click here</a></p>
+
+<h2 id="downlad-the-cli-tool">downlad the cli tool</h2>
+<p><a href="https://eeli1.github.io/open-gal/cli">click here</a></p>
+
+<h2 id="how-open-gal-works-internaly">how open gal works internaly</h2>]]></content><author><name>Elias Maier</name></author><category term="tool" /><category term="rust hdl gal" /><summary type="html"><![CDATA[open gal]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/editor.png" /><media:content medium="image" url="/editor.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
